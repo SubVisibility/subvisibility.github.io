@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
+title:            Sub-Visibility
 tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'AI-based characterization of sub-visible particles in biopharmaceuticals'
 url:              https://subvisibility.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
@@ -15,7 +15,7 @@ baseurl:          '/'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
+  name:           'Utku Ozbulak'
   url:            https://twitter.com/fongandrewc
 
 paginate:         5
@@ -28,7 +28,7 @@ plugins:
   - jekyll-paginate
 
 # Sidebar link settings
-sidebar_home_link:  true
+sidebar_home_link:  false
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
