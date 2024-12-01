@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Sub-Visibility
+title:            Sub Visibility
 tagline:          'A Jekyll theme'
 description:      'AI-based characterization of sub-visible particles in biopharmaceuticals'
 url:              https://subvisibility.github.io
@@ -16,7 +16,7 @@ baseurl:          '/'
 
 author:
   name:           'Utku Ozbulak'
-  url:            https://twitter.com/fongandrewc
+  url:            
 
 paginate:         5
 # paginate_path:    '/page:num'
