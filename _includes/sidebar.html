@@ -1,7 +1,4 @@
 <div id="sidebar">
-  
-<center><img src="https://raw.githubusercontent.com/SubVisibility/subvisibility.github.io/refs/heads/master/_screenshots/subvis.png?raw=true" alt="Italian Trulli"></center>
-  <br>
   <header>
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ "/" | relative_url }}">
@@ -18,4 +15,7 @@
   {% if site.version %}
     <span class="site-version">Currently v{{ site.version }}</span>
   {% endif %}
+
+  {% include sidebar-icon-links.html %}
+  {% include copyright.html %}
 </div>
