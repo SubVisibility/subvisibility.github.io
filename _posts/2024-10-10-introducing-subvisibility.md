@@ -6,7 +6,7 @@ title: Introducing Sub-Visibility
 <div align="justify"> 
 Subvisibility is the initiative for AI-based characterization of sub-visible particles in injectible biopharmaceuticals. With this initiative, our goal is to leverage advanced artificial intelligence techniques, including deep learning and computer vision, to analyze and characterize sub-visible particles (SvPs) in injectable biopharmaceuticals. By identifying particle types, understanding their morphology, and detecting stress-induced sources of particle formation, Sub-Visibility seeks to enhance the safety, efficacy, and quality of biologics. The platform integrates state-of-the-art machine learning algorithms with high-resolution imaging technologies, providing biopharmaceutical companies with reliable, interpretable, and scalable solutions to meet regulatory standards and ensure product integrity.
 </div>
-
+</br>
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ### Built on Poole
