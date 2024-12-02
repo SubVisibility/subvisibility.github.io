@@ -3,6 +3,7 @@ layout: category
 title: About
 ---
 
+### What are subvisible particles?
 
 Protein-based therapeutics have become critical in modern medicine for combating various diseases with over 400 individual biopharmaceutical products hold active licenses from U.S. Food and Drug Administration (`FDA`), the European Medicines Agency (`EMA`), and Republic of Korea's Ministry of Food and Drug Safety (`MFDS`), contributing to a notable market valued at greater than 300 billion USD. With the number of drugs approved for clinical use increasing dramatically over the past decade, the impact of protein-based treatments in sustaining modern healthcare is becoming more evident.
 <br>
@@ -21,7 +22,7 @@ Quality assessment of protein-based therapeutics has reached a pivotal point wit
 
 With this initiative, our goal is to leverage advanced artificial intelligence techniques, including deep learning and computer vision, to analyze and characterize SvPs in injectable biopharmaceuticals.
 
-## Team
+### Team
 
 - **Member 1**, description
   
