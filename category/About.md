@@ -14,8 +14,9 @@ However, large biomolecules have delicate structures, making them prone to unfol
 As described above, in the context of therapeutic products derived from biological sources, such as proteins, monoclonal antibodies, and vaccines, SvPs are of significant concern. As a result, regulatory agencies such as the U.S. FDA and EMA have set strict guidelines for the detection, characterization, and control of SvPs in biopharmaceuticals. In particular, the United States Pharmacopeia (USP) `Chapter <788>` and `Chapter <1787>` are the primary regulatory standard for SvPs in injectable drugs, setting limits on the acceptable number of SvPs in parenteral (injectable) drugs.
 
 > `USP <788>` requires that particles larger than 10 &#181; m remain below a concentration of 6,000 particles per container.
+
 <br>
-<br>
+
 Quality assessment of protein-based therapeutics has reached a pivotal point with breakthroughs in imaging techniques. In particular, the development of Flow Imaging Microscopy (`FIM`) has enabled the highly sensitive detection of subvisible particles (SvP - particles of size 2 to 100 &#181; m), facilitating the assessment of particle count and size distribution, even for certain translucent protein particles. Here is what SvPs look like under FIM.
 
 <center><img src="https://raw.githubusercontent.com/SubVisibility/subvisibility.github.io/refs/heads/master/_screenshots/subvis.png?raw=true" alt="Sub-Visibility icon"></center>
