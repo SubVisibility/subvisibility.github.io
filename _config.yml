@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Sub Visibility
-tagline:          'A Jekyll theme'
+title:            Sub-Visibility
+tagline:          'AI-based characterization of sub-visible particles'
 description:      'AI-based characterization of sub-visible particles in biopharmaceuticals'
 url:              https://subvisibility.github.io
 baseurl:          '/'
@@ -28,7 +28,7 @@ plugins:
   - jekyll-paginate
 
 # Sidebar link settings
-sidebar_home_link:  false
+sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
