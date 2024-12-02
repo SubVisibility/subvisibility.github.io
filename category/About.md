@@ -19,7 +19,7 @@ As described above, in the context of therapeutic products derived from biologic
 
 Quality assessment of protein-based therapeutics has reached a pivotal point with breakthroughs in imaging techniques. In particular, the development of Flow Imaging Microscopy (`FIM`) has enabled the highly sensitive detection of subvisible particles (SvP - particles of size 2 to 100 &#181; m), facilitating the assessment of particle count and size distribution, even for certain translucent protein particles. Here is what SvPs look like under FIM.
 
-<center><img src="https://raw.githubusercontent.com/SubVisibility/subvisibility.github.io/refs/heads/master/_screenshots/subvis.png?raw=true" alt="Sub-Visibility icon"></center>
+<center><img src="https://raw.githubusercontent.com/SubVisibility/subvisibility.github.io/refs/heads/master/_screenshots/mech_color_stacked.png?raw=true" alt="Sub-Visibility icon"></center>
 
 With this initiative, our goal is to leverage advanced artificial intelligence techniques, including deep learning and computer vision, to analyze and characterize SvPs in injectable biopharmaceuticals.
 
