@@ -36,4 +36,4 @@ With this initiative, our goal is to leverage advanced artificial intelligence t
 
 ## Models and Development
 
-For our current models and future research work, see [Models]([http://getpoole.com)](https://subvisibility.github.io/category/Models.html) page.
+For our current models and future research work, see [Models](https://subvisibility.github.io/category/Models.html) page.
