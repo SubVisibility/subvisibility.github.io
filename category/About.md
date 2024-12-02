@@ -24,16 +24,6 @@ Quality assessment of protein-based therapeutics has reached a pivotal point wit
 
 With this initiative, our goal is to leverage advanced artificial intelligence techniques, including deep learning and computer vision, to analyze and characterize SvPs in injectable biopharmaceuticals.
 
-### Team
-
-- **Member 1**: description
-  
-- **Member 2**: description
-  
-- **Member 3**: description
-  
-- **Member 4**, description
-
 ## Models and Development
 
 For our current models and future research work, see [Models](https://subvisibility.github.io/category/Models.html) page.
