@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Data
+title: Team
 ---
 
 Info about data.
