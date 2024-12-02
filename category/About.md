@@ -34,4 +34,6 @@ With this initiative, our goal is to leverage advanced artificial intelligence t
   
 - **Member 4**, description
 
-## Team
+## Models and Development
+
+For our current models and future research work, see [Models]([http://getpoole.com)](https://subvisibility.github.io/category/Models.html) page.
