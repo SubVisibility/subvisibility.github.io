@@ -1,9 +1,8 @@
 <div id="sidebar">
-  Text-111
   
 <center><img src="https://placehold.it/800x400 "Large example image" alt="Italian Trulli"></center>
+  <br>
   <header>
-  Text-222
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ "/" | relative_url }}">
         {% unless page.url == "/" %}
@@ -16,10 +15,7 @@
   </header>
   {% include sidebar-nav-links.html %}
 
-  Text-333
   {% if site.version %}
     <span class="site-version">Currently v{{ site.version }}</span>
   {% endif %}
-  <br>
-  <br>
 </div>
