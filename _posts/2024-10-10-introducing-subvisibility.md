@@ -3,39 +3,27 @@ layout: post
 title: Introducing Sub-Visibility
 ---
 
-<div align="justify"> 
-Subvisibility is the initiative for AI-based characterization of sub-visible particles in injectible biopharmaceuticals. With this initiative, our goal is to leverage advanced artificial intelligence techniques, including deep learning and computer vision, to analyze and characterize sub-visible particles (SvPs) in injectable biopharmaceuticals. By identifying particle types, understanding their morphology, and detecting stress-induced sources of particle formation, Sub-Visibility seeks to enhance the safety, efficacy, and quality of biologics. The platform integrates state-of-the-art machine learning algorithms with high-resolution imaging technologies, providing biopharmaceutical companies with reliable, interpretable, and scalable solutions to meet regulatory standards and ensure product integrity.
-</div>
+Sub-Visibility is the initiative for AI-based characterization of sub-visible particles in injectible biopharmaceuticals. With this initiative, our goal is to leverage advanced artificial intelligence techniques, including deep learning and computer vision, to analyze and characterize sub-visible particles (SvPs) in injectable biopharmaceuticals. By identifying particle types, understanding their morphology, and detecting stress-induced sources of particle formation, Sub-Visibility seeks to enhance the safety, efficacy, and quality of biologics. The platform integrates state-of-the-art machine learning algorithms with high-resolution imaging technologies, providing biopharmaceutical companies with reliable, interpretable, and scalable solutions to meet regulatory standards and ensure product integrity.
+
 </br>
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+</br>
 
-### Built on Poole
+## Current Models
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
+- **Particle type classification**: Text.
 
-* Complete Jekyll setup included (layouts, config, [404]({{ "/404" | relative_url }}), [RSS feed]({{ "/feed.xml" | relative_url }}), posts, and [example page]({{ "/about" | relative_url }}))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+- **Microplastics identification**: Text.
 
-### Hyde features
+- **Particle ratio prediction in drugs**: Text.
 
-In addition to the features of Poole, Hyde adds the following:
+## Under Development
 
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/hyde#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
+- **Current work 1**: Text.
 
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
+- **Current work 2**: Text.
 
-### Browser support
+## News
 
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+- **News 1**: Text.
 
-### Download
-
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+- **News 2**: Text.
