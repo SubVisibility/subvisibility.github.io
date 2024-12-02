@@ -13,6 +13,6 @@ Currently, we Sub-Visiblity offers several models to improve the characterizatio
 
 ### What we are working on?
 
-- **Particle type classification**: Text.
+- **Current work 1**: Text.
 
-- **Particle type classification**: Text.
+- **Current work 2**: Text.
